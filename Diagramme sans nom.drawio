@@ -40,10 +40,10 @@
         <mxCell id="ihhawm1Ix_6cRNDinuKR-5" value="Affichage" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ihhawm1Ix_6cRNDinuKR-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ihhawm1Ix_6cRNDinuKR-6" target="ihhawm1Ix_6cRNDinuKR-23">
+        <mxCell id="ihhawm1Ix_6cRNDinuKR-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ihhawm1Ix_6cRNDinuKR-6" target="ihhawm1Ix_6cRNDinuKR-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ihhawm1Ix_6cRNDinuKR-6" value="Charge" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ihhawm1Ix_6cRNDinuKR-6" value="Alimentation" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ihhawm1Ix_6cRNDinuKR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ihhawm1Ix_6cRNDinuKR-7" target="ihhawm1Ix_6cRNDinuKR-25">
@@ -82,8 +82,8 @@
         <mxCell id="ihhawm1Ix_6cRNDinuKR-19" value="Controle" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ihhawm1Ix_6cRNDinuKR-23" value="Port USB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="ihhawm1Ix_6cRNDinuKR-23" value="Port USB pour la charge" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ihhawm1Ix_6cRNDinuKR-25" value="Haut-parleur" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="320" width="120" height="60" as="geometry" />
@@ -108,6 +108,12 @@
         </mxCell>
         <mxCell id="ihhawm1Ix_6cRNDinuKR-39" value="Carte SD" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ihhawm1Ix_6cRNDinuKR-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ihhawm1Ix_6cRNDinuKR-41" target="ihhawm1Ix_6cRNDinuKR-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ihhawm1Ix_6cRNDinuKR-41" value="Batterie" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
